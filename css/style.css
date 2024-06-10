@@ -104,7 +104,7 @@ img {
 
 /* Class CSS */
 .section {
-    padding: 4rem 0 2rem;
+    padding: 1rem 0 2rem;
 }
 
 .section-title {
@@ -781,7 +781,7 @@ img {
         align-items: center;
     }
 
-    .project_icoon,
+    .project_icon,
     .project_title,
     .project_description {
         margin-bottom: 0;
